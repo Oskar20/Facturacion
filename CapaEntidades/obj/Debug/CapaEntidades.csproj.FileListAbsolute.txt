@@ -1,0 +1,6 @@
+C:\Users\Oskar\Documents\GitHub\Proyecto estudio\C# winform\Facturacion\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\Oskar\Documents\GitHub\Proyecto estudio\C# winform\Facturacion\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\Oskar\Documents\GitHub\Proyecto estudio\C# winform\Facturacion\CapaEntidades\obj\Debug\CapaEntidades.csprojAssemblyReference.cache
+C:\Users\Oskar\Documents\GitHub\Proyecto estudio\C# winform\Facturacion\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Oskar\Documents\GitHub\Proyecto estudio\C# winform\Facturacion\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\Oskar\Documents\GitHub\Proyecto estudio\C# winform\Facturacion\CapaEntidades\obj\Debug\CapaEntidades.pdb

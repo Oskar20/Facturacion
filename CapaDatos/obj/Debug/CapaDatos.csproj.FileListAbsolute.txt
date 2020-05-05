@@ -1,0 +1,10 @@
+C:\Users\Oskar\Documents\GitHub\Proyecto estudio\C# winform\Facturacion\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\Oskar\Documents\GitHub\Proyecto estudio\C# winform\Facturacion\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Oskar\Documents\GitHub\Proyecto estudio\C# winform\Facturacion\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\Oskar\Documents\GitHub\Proyecto estudio\C# winform\Facturacion\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Oskar\Documents\GitHub\Proyecto estudio\C# winform\Facturacion\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Oskar\Documents\GitHub\Proyecto estudio\C# winform\Facturacion\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\Oskar\Documents\GitHub\Proyecto estudio\C# winform\Facturacion\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\Oskar\Documents\GitHub\Proyecto estudio\C# winform\Facturacion\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\Oskar\Documents\GitHub\Proyecto estudio\C# winform\Facturacion\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Oskar\Documents\GitHub\Proyecto estudio\C# winform\Facturacion\CapaDatos\obj\Debug\CapaDatos.pdb
